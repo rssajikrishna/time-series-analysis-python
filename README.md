@@ -27,9 +27,7 @@ Accurate electricity consumption forecasting is crucial for energy management, l
 - **Forecast Visualization**: Visualizing the forecasted values along with confidence intervals.
 
 ## Dataset
-The dataset used in this project contains historical electricity consumption data. You can replace the link below with the actual dataset you're using.
-
-- [Sample Dataset](link_to_dataset) (Replace with actual link or dataset description)
+The dataset used in this project contains historical electricity consumption data. 
 
 ## Installation
 ### Prerequisites
@@ -76,8 +74,6 @@ The ARIMA model is built using the following parameters:
 
 The model is evaluated using metrics such as Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).
 
-## Results
-The results of the model, including predictions and performance metrics, are documented in the `results` folder. The `forecast.ipynb` notebook provides visualizations of the forecasted values along with confidence intervals.
 
 ## Contributing
 Contributions are welcome! Please feel free to open an issue or submit a pull request with any improvements, bug fixes, or new features.
